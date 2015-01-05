@@ -76,6 +76,7 @@ add_lunch_combo slim_tilapia-userdebug
 add_lunch_combo slim_togari-userdebug
 add_lunch_combo slim_toro-userdebug
 add_lunch_combo slim_toroplus-userdebug
+add_lunch_combo slim_trltespr-userdebug
 add_lunch_combo slim_v500-userdebug
 add_lunch_combo slim_vs980-userdebug
 add_lunch_combo slim_vs985-userdebug
